@@ -1,0 +1,20 @@
+{
+  "name": "first-app",
+  "description": "My first react native app",
+  "main": "server.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.7",
+    "skeleton": "^2.0.4"
+  }
+}
